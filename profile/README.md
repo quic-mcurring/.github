@@ -1,6 +1,6 @@
 # Snapdragon Game Studios
 
-![Snapdragon Game Studios Splash](../img/splash.png)
+![Snapdragon Game Studios Splash](/img/splash.png)
 
 Welcome to the Snapdragon Game Studios' customized [Unreal Engine fork](https://github.com/SnapdragonStudios-UnrealEngine/UnrealEngine) for Qualcomm Snapdragon platforms.  This repository includes several optimizations that can be easily integrated into an existing Unreal Engine project, and it can also serve as a solid starting point for your development.
 
